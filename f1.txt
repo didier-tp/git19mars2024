@@ -1,2 +1,2 @@
-ligne1
-ligne2
+Ligne1
+LIGNE2
